@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      rel="stylesheet"
+      integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://kit.fontawesome.com/75e53ee709.js"
+      crossorigin="anonymous"
+    ></script>
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Create an Account</title>
+  </head>
+  <body>
+    <section class="form_container account_container">
+      <div class="user_logo">
+        <i class="fas fa-user-plus"></i>
+      </div>
+      <form action="#" class="login_form" id="CreateAccount">
+        <h1>Create Account</h1>
+        
+        <section class="inputs_container">
+            <!-- firstName -->
+          <div class="input-field ">
+            <input type="text" id="FirstName" class="user" required />
+            <label for="name" class="user" id="firstName">First Name</label>
+          </div>
+          <!-- lastName -->
+          <div class="input-field ">
+            <input type="text" id="LastName" class="user" required />
+            <label for="name" class="user" id="lastName">Last Name</label>
+          </div>
+          <!-- Email -->
+          <div class="input-field ">
+            <input type="email" id="UserEmail" class="user" required />
+            <label for="name" class="user" id="email">Email address</label>
+          </div>
+
+          <!-- User Password  -->
+          <div class="input-field ">
+            <input type="password" id="UserPassword-1" class="user" required />
+            <label for="password" class="user">Password</label>
+          </div>
+        
+          
+        </section>
+        <input type="submit" value="Register" />
+        <br>
+        <table class="users_table">
+          <thead>
+            <tr>
+              <th>First Name</th>
+              <th>Last Name</th>
+              <th>Email</th>
+              <th>Password</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody id="user-list"></tbody>
+      </form>
+      
+      </table>
+    </section>
+  <script src="app.js"></script>
+  <script src="localStorage.js"></script>
+  </body>
+</html>
