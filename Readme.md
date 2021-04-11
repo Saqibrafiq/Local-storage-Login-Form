@@ -11,7 +11,8 @@ In Forget your password i generate reset code which will generate randomly every
 ## Usefull Links
 
 [https://fontawesome.com/](#Fontawesome)  
-[https://fonts.google.com/](#GoogleFonts)  ![1](https://user-images.githubusercontent.com/14060649/114324672-ab9ca180-9b2b-11eb-922f-39240357f5fd.jpg)
+[https://fonts.google.com/](#GoogleFonts)  
+![1](https://user-images.githubusercontent.com/14060649/114324672-ab9ca180-9b2b-11eb-922f-39240357f5fd.jpg)
 ![2](https://user-images.githubusercontent.com/14060649/114324674-ad666500-9b2b-11eb-93eb-d9511ba05f16.jpg)
 ![3](https://user-images.githubusercontent.com/14060649/114324677-ae979200-9b2b-11eb-82ab-cb637827ab5e.jpg)
 ![4](https://user-images.githubusercontent.com/14060649/114324680-afc8bf00-9b2b-11eb-9a29-d008de709df7.jpg)
