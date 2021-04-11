@@ -1,4 +1,3 @@
-![1](https://user-images.githubusercontent.com/14060649/114324667-a63f5700-9b2b-11eb-982f-7a4d136c4391.jpg)
 # Login Form with Local Browser Storage
 
 Simple HTML Css and Javascript Login form. I used pseudo element and classes as hover, after, before, and active in order to hide and make content visible.
